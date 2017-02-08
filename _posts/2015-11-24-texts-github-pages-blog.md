@@ -40,8 +40,7 @@ print_hi('Tom')
 Press “Enter” key inside code block to insert a line break or “Shift+Enter” to
 end code block.
 
-Footnotes
----------
+# Footnotes<br/>Footnotes
 
 Notes can be placed anywhere[^1] in the source file. When document is published
 to a paper-oriented format (PDF or Word) footnotes are displayed at the bottom
