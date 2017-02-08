@@ -9,13 +9,13 @@ Texts is “rich editor for plain text”—you can write documents in visual
 interface and they will be saved in plain text format with Markdown markup. This
 document shows some of the styles available in Texts.
 
-Images
-------
+Images<br/>Images
+-----------------
 
 ![](<../images/radcliffe-camera.jpg>)
 
+# Math\
 Math
-----
 
 Formulas can be placed inline like $$E=mc^2$$ or in a separate paragraph, like
 the following one. Standard LaTeX syntax is supported.
@@ -24,8 +24,8 @@ $$
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
 $$
 
+# Code  
 Code
-----
 
 Inline `code` gets monospaced font.
 
